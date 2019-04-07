@@ -1,6 +1,6 @@
 # C++ Tutorial with examples
 
-This repository contains C++ basic topics with example codes that I adopted from[LearnCpp](https://www.learncpp.com/) to help instruct programming in C++. These samples try to help newcomers quickly find an appropriate pattern for solving their programming problems. Also they can quickly find out how a certain language construct, or a popular function is generally used.
+This repository contains C++ basic topics with example codes that I adopted from [LearnCpp](https://www.learncpp.com/) to help instruct programming in C++. These samples try to help newcomers quickly find an appropriate pattern for solving their programming problems. Also they can quickly find out how a certain language construct, or a popular function is generally used.
 
 Updating on process!!!
 
