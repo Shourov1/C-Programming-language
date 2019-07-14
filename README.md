@@ -10,7 +10,7 @@ Each topic has a separate folder of its own with different examples. If you want
 
 ## Built With
 
-*[Xcode-beta](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_release_notes)
+*[Xcode-beta](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_release_notes)*
 
 
 ## Author
@@ -19,5 +19,5 @@ Each topic has a separate folder of its own with different examples. If you want
 
 ## References
 
-*[LearnCpp](https://www.learncpp.com/).
+*[LearnCpp](https://www.learncpp.com/).*
 
